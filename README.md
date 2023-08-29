@@ -27,7 +27,7 @@ This project is a command-line password cracker implemented in Python. It provid
     cd password-cracker
   ```
 
-##Usage
+## Usage
 
 1.Generate wordlist:
   ```bash
@@ -49,10 +49,10 @@ python password_cracker.py --hash --hash-algorithm sha256
 python password_cracker.py --brute-force
   ```
 
-##Ethical Use
+## Ethical Use
 This tool is intended for educational and ethical purposes only. Do not use it for any malicious or unauthorized activities.
 
-##License
+## License
 This project is licensed under the MIT License.
 
 
