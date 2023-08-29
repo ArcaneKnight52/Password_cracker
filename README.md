@@ -21,7 +21,7 @@ This project is a command-line password cracker implemented in Python. It provid
 
 1. Clone this repository:
    ```bash
-       git clone https://github.com/your-username/password-cracker.git
+   git clone https://github.com/your-username/password-cracker.git
    ```
 2.Navigate to the project directory:
   ```bash
