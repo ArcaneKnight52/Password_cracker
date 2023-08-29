@@ -15,7 +15,6 @@ This project is a command-line password cracker implemented in Python. It provid
 ## Prerequisites
 
 - Python 3.x
-- (Additional dependencies, if any)
 
 ## Installation
 
